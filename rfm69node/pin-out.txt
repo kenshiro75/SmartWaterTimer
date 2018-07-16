@@ -1,0 +1,4 @@
+pir 4
+hum 3
+led 7
+dio0 2
